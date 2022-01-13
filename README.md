@@ -1,4 +1,4 @@
-# All project is implemented using JavaScript.
+# All project are implemented using JavaScript.
 <hr>
 
 # Vertical Slider
